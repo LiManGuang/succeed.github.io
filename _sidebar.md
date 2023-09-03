@@ -2,7 +2,7 @@
 
    - [杂文](Passage/essays/zawen.md)
    - [周记](#)
-   - [规划](#)
+   - [规划](Passage/plans/plans.md)
    - [作息](Passage/daily-routine/daily.md)
    
 -  技术
